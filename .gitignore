@@ -1,0 +1,7 @@
+.idea
+**/node_modules/*
+**/.firebaserc
+*/npm-debug.log
+*~
+firebase-debug.log
+functions/google-credentials.json
